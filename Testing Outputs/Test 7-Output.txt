@@ -1,0 +1,1 @@
+Error detected, please make sure you have selected a file to convert, a name for the piece, and a save location
